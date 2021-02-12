@@ -16,11 +16,11 @@
                             <!-- layer 1 -->
                             <div class="layer-1-1 hidden-xs wow slideInDown" data-wow-duration="2s"
                                 data-wow-delay=".2s">
-                                <h2 class="title1">The Best Business Information </h2>
+                                <h2 class="title1">Kami Siap Memberikan yang Terbaik  </h2>
                             </div>
                             <!-- layer 2 -->
                             <div class="layer-1-2 wow slideInUp" data-wow-duration="2s" data-wow-delay=".1s">
-                                <h1 class="title2">We're In The Business Of Helping You Start Your Business</h1>
+                                <h1 class="title2">My Home My Inspiration</h1>
                             </div>
                             <!-- layer 3 -->
                             <div class="layer-1-3 hidden-xs wow slideInUp" data-wow-duration="2s" data-wow-delay=".2s">
@@ -41,11 +41,11 @@
                         <div class="slider-content text-center">
                             <!-- layer 1 -->
                             <div class="layer-1-1 hidden-xs wow slideInUp" data-wow-duration="2s" data-wow-delay=".2s">
-                                <h2 class="title1">The Best Business Information </h2>
+                                <h2 class="title1">Kami Siap Memberikan yang Terbaik </h2>
                             </div>
                             <!-- layer 2 -->
                             <div class="layer-1-2 wow slideInUp" data-wow-duration="2s" data-wow-delay=".1s">
-                                <h1 class="title2">We're In The Business Of Get Quality Business Service</h1>
+                                <h1 class="title2">My Home My Inspiration</h1>
                             </div>
                             <!-- layer 3 -->
                             <div class="layer-1-3 hidden-xs wow slideInUp" data-wow-duration="2s" data-wow-delay=".2s">

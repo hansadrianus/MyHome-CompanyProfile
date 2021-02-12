@@ -11,7 +11,7 @@
         <div class="row">
             <div class="col-md-4 col-sm-4 col-xs-12">
                 <div class="pri_table_list">
-                    <h3>basic <br /> <span>$80 / month</span></h3>
+                    <h3>PREMIUM <br /> <span>Rp.3.199</span></h3>
                     <ol>
                         <li class="check">Online system</li>
                         <li class="check cross">Full access</li>
@@ -28,7 +28,7 @@
             <div class="col-md-4 col-sm-4 col-xs-12">
                 <div class="pri_table_list active">
                     <span class="saleon">top sale</span>
-                    <h3>standard <br /> <span>$110 / month</span></h3>
+                    <h3>MULTI ROOM <br /> <span>Rp.1.999</span></h3>
                     <ol>
                         <li class="check">Online system</li>
                         <li class="check">Full access</li>

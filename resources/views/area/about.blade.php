@@ -27,9 +27,10 @@
                             <h4 class="sec-head">project Maintenance</h4>
                         </a>
                         <p>
-                            Redug Lagre dolor sit amet, consectetur adipisicing elit. Itaque quas officiis iure
-                            aspernatur sit adipisci quaerat unde at nequeRedug Lagre dolor sit amet, consectetur
-                            adipisicing elit. Itaque quas officiis iure
+                        My Home Spaceconomic Interior adalah Kontraktor  interior yang secara khusus menangani proyek-proyek interior typical seperti interior hotel, apartment, rumah sakit atau bangunan jenis lainnya.
+Sejak dimulainya usaha ini pada tahun 2011, kami tetap focus memproduksi paket-paket modul interior untuk apartment kelas menengah yang berkualitas, dengan desain yang fungsional, memiliki mutu bahan yang baik, proses fabrikasi dan instalasi yang cepat, harga yang terbaik, namun tetap memiliki bentuk dan nilai estetik yan menarik.
+Sesuai dengan slogan usaha kami yaitu “My Home My Inspiration” kiranya produk dan jasa kami dapat memberikan inspirasi-inspirasi kreatif bagi para konsumen kami.
+
                         </p>
                         <ul>
                             <li>
