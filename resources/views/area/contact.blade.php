@@ -30,9 +30,9 @@
                         <div class="single-icon">
                             <i class="fa fa-envelope-o"></i>
                             <p>
-                                Email: myhome.myinspiration@gmail.com
+                                Email: graha_gsi@yahoo.com
 <br>
-                                <span>Web: www.myhomespaceconomic.com</span>
+                                <span>Web: www.grahasolusiindonusa.com</span>
                             </p>
                         </div>
                     </div>

@@ -16,12 +16,12 @@
                         <div class="services-details">
                             <div class="single-services">
                                 <a class="services-icon" href="#">
-                                    <i class="fa fa-code"></i>
+                                    <!-- <img src="" class="fa"/> -->
+                                    <img class="fa fa-code"></img>
                                 </a>
-                                <h4>Expert Coder</h4>
+                                <h4>Contractor Building</h4>
                                 <p>
-                                    will have to make sure the prototype looks finished by inserting text or photo.make
-                                    sure the prototype looks finished by.
+                                    
                                 </p>
                             </div>
                         </div>
@@ -35,10 +35,9 @@
                                 <a class="services-icon" href="#">
                                     <i class="fa fa-camera-retro"></i>
                                 </a>
-                                <h4>Creative Designer</h4>
+                                <h4>Water Proofing</h4>
                                 <p>
-                                    will have to make sure the prototype looks finished by inserting text or photo.make
-                                    sure the prototype looks finished by.
+                                    
                                 </p>
                             </div>
                         </div>
@@ -53,10 +52,9 @@
                                 <a class="services-icon" href="#">
                                     <i class="fa fa-wordpress"></i>
                                 </a>
-                                <h4>Wordpress Developer</h4>
+                                <h4>Building Renovation</h4>
                                 <p>
-                                    will have to make sure the prototype looks finished by inserting text or photo.make
-                                    sure the prototype looks finished by.
+                                    
                                 </p>
                             </div>
                         </div>
@@ -71,10 +69,9 @@
                                 <a class="services-icon" href="#">
                                     <i class="fa fa-camera-retro"></i>
                                 </a>
-                                <h4>Social Marketer </h4>
+                                <h4>Interior Set Package </h4>
                                 <p>
-                                    will have to make sure the prototype looks finished by inserting text or photo.make
-                                    sure the prototype looks finished by.
+                                    
                                 </p>
                             </div>
                         </div>
@@ -90,10 +87,9 @@
                                 <a class="services-icon" href="#">
                                     <i class="fa fa-bar-chart"></i>
                                 </a>
-                                <h4>Seo Expart</h4>
+                                <h4>Interior Custom</h4>
                                 <p>
-                                    will have to make sure the prototype looks finished by inserting text or photo.make
-                                    sure the prototype looks finished by.
+                                    
                                 </p>
                             </div>
                         </div>
@@ -101,24 +97,7 @@
                     </div>
                 </div>
                 <!-- End Left services -->
-                <div class="col-md-4 col-sm-4 col-xs-12">
-                    <!-- end col-md-4 -->
-                    <div class=" about-move">
-                        <div class="services-details">
-                            <div class="single-services">
-                                <a class="services-icon" href="#">
-                                    <i class="fa fa-ticket"></i>
-                                </a>
-                                <h4>24/7 Support</h4>
-                                <p>
-                                    will have to make sure the prototype looks finished by inserting text or photo.make
-                                    sure the prototype looks finished by.
-                                </p>
-                            </div>
-                        </div>
-                        <!-- end about-details -->
-                    </div>
-                </div>
+               
             </div>
         </div>
     </div>

@@ -6,7 +6,7 @@
                 <img src="{{ asset('img/about/2.jpg') }}" alt="">
             </a>
         </div>
-        <div class="ml-2 mr-2 work-right-text text-center">
+        <div class="work-right-text text-center">
             <h2>MY INSPIRATION IS REAL</h2>
             <h5>Kini apa yang pernah anda bayangkan, impikan dan inspirasikan sudah dapat terwujud. </h5>
             <h5>Tidak hanya interior anda saja yang nyaman,

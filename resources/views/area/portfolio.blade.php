@@ -4,7 +4,7 @@
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                 <div class="section-headline text-center">
-                    <h2>Our Portfolio</h2>
+                    <h2>Portfolio</h2>
                 </div>
             </div>
         </div>
@@ -15,16 +15,13 @@
                     <div class="awesome-menu ">
                         <ul class="project-menu">
                             <li>
-                                <a href="#" class="active" data-filter="*">All</a>
+                                <a href="#" class="active" data-filter="*">Semua Desain</a>
                             </li>
                             <li>
-                                <a href="#" data-filter=".development">Development</a>
+                                <a href="#" data-filter=".development">Office Renovation</a>
                             </li>
                             <li>
-                                <a href="#" data-filter=".design">Design</a>
-                            </li>
-                            <li>
-                                <a href="#" data-filter=".photo">Photoshop</a>
+                                <a href="#" data-filter=".design">Interior Set Package</a>
                             </li>
                         </ul>
                     </div>
@@ -39,7 +36,7 @@
                             <div class="add-actions text-center">
                                 <div class="project-dec">
                                     <a class="venobox" data-gall="myGallery" href="{{ asset('img/portfolio/1.jpg') }}">
-                                        <h4>Business City</h4>
+                                        <h4>PURI ORCHARD</h4>
                                         <span>Web Development</span>
                                     </a>
                                 </div>
@@ -56,7 +53,7 @@
                             <div class="add-actions text-center">
                                 <div class="project-dec">
                                     <a class="venobox" data-gall="myGallery" href="{{ asset('img/portfolio/2.jpg') }}">
-                                        <h4>Blue Sea</h4>
+                                        <h4>Apartment Ciputat</h4>
                                         <span>Photosho</span>
                                     </a>
                                 </div>

@@ -57,7 +57,7 @@
 
     @include('layout.footer')
 
-    <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
+    <a href="https://api.whatsapp.com/send?phone=+6285779294845&text=Halo" class="back-to-top" style="border-radius: 100px;"><i class="fa fa-whatsapp fa-3x"></i></a>
 
     <!-- JavaScript Libraries -->
     <script src="{{ asset('lib/jquery/jquery.min.js') }}"></script>

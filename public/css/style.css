@@ -148,7 +148,7 @@ body {
 .back-to-top {
   position: fixed;
   display: none;
-  background: #732c90;
+  background: #0cc043;
   color: #fff;
   padding: 6px 12px 9px 12px;
   font-size: 16px;
@@ -165,13 +165,13 @@ body {
 }
 
 .back-to-top:focus {
-  background: #732c90;
+  background: #09772a;
   color: #fff;
   outline: none;
 }
 
 .back-to-top:hover {
-  background: #de8efd;
+  background: #09772a;
   color: #fff;
 }
 

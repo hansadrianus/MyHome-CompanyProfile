@@ -13,33 +13,30 @@
                             <div class="single-testi">
                                 <div class="testi-text">
                                     <p>
-                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pulvinar luctus est
-                                        eget congue.<br>consectetur adipiscing elit. Sed pulvinar luctus est eget
-                                        congue.
+                                        Daridulu ingin mendesain sendiri ruangan saya sendiri.
+                                        <br>Alhamdulillah MyHome Spaceconomic mengerti selera konsumen, Mantaaabb.
                                     </p>
-                                    <h6>Boby</h6>
+                                    <h6>Irene</h6>
                                 </div>
                             </div>
                             <!-- End single item -->
                             <div class="single-testi">
                                 <div class="testi-text">
                                     <p>
-                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pulvinar luctus est
-                                        eget congue.<br>consectetur adipiscing elit. Sed pulvinar luctus est eget
-                                        congue.
+                                        Sangat puasssss desainer mengerti selera kita.
+                                        <br>Saya rekomen kekalian untuk desainer interior memakai jasa MyHome Spaceconomic.
                                     </p>
-                                    <h6>Jhon</h6>
+                                    <h6>Dede Iskandar</h6>
                                 </div>
                             </div>
                             <!-- End single item -->
                             <div class="single-testi">
                                 <div class="testi-text">
                                     <p>
-                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pulvinar luctus est
-                                        eget congue.<br>consectetur adipiscing elit. Sed pulvinar luctus est eget
-                                        congue.
+                                        Saya awalnya bingung mau mendesain ruangan saya seperti apa?
+                                        <br>Alhamdulillah saya percayakan dan hasilnya sangat memuaskan. Terima kasih Myhome Spaceconomic.
                                     </p>
-                                    <h6>Fleming</h6>
+                                    <h6>Iswanto</h6>
                                 </div>
                             </div>
                             <!-- End single item -->
