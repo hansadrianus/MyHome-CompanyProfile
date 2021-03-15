@@ -16,8 +16,7 @@
                         <div class="services-details">
                             <div class="single-services">
                                 <a class="services-icon" href="#">
-                                    <!-- <img src="" class="fa"/> -->
-                                    <img class="fa fa-code"></img>
+                                <img src="{{ asset('img/services/1.jpg') }}" height="200px" width="250px" />
                                 </a>
                                 <h4>Contractor Building</h4>
                                 <p>
@@ -33,7 +32,7 @@
                         <div class="services-details">
                             <div class="single-services">
                                 <a class="services-icon" href="#">
-                                    <i class="fa fa-camera-retro"></i>
+                                    <img src="{{ asset('img/services/3.jpg') }}" height="200px" width="250px" />
                                 </a>
                                 <h4>Water Proofing</h4>
                                 <p>
@@ -50,7 +49,7 @@
                         <div class="services-details">
                             <div class="single-services">
                                 <a class="services-icon" href="#">
-                                    <i class="fa fa-wordpress"></i>
+                                <img src="{{ asset('img/services/2.jpg') }}" height="200px" width="250px" />
                                 </a>
                                 <h4>Building Renovation</h4>
                                 <p>
@@ -67,7 +66,7 @@
                         <div class="services-details">
                             <div class="single-services">
                                 <a class="services-icon" href="#">
-                                    <i class="fa fa-camera-retro"></i>
+                                <img src="{{ asset('img/services/4.jpg') }}" height="200px" width="250px" />
                                 </a>
                                 <h4>Interior Set Package </h4>
                                 <p>
@@ -85,7 +84,7 @@
                         <div class="services-details">
                             <div class="single-services">
                                 <a class="services-icon" href="#">
-                                    <i class="fa fa-bar-chart"></i>
+                                <img src="{{ asset('img/services/5.jpg') }}" height="200px" width="250px" />
                                 </a>
                                 <h4>Interior Custom</h4>
                                 <p>
