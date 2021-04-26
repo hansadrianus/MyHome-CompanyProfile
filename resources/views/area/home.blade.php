@@ -5,6 +5,7 @@
             <img src="{{ asset('img/slider/slider1.jpg') }}" alt="" title="#slider-direction-1" />
             <img src="{{ asset('img/slider/slider2.jpg') }}" alt="" title="#slider-direction-2" />
             <img src="{{ asset('img/slider/slider3.jpg') }}" alt="" title="#slider-direction-3" />
+            <img src="{{ asset('img/slider/slider4.jpg') }}" alt="" title="#slider-direction-3" />
         </div>
 
         <!-- direction 1 -->
@@ -60,6 +61,31 @@
 
         <!-- direction 3 -->
         <div id="slider-direction-3" class="slider-direction slider-two">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12 col-sm-12 col-xs-12">
+                        <div class="slider-content">
+                            <!-- layer 1 -->
+                            <div class="layer-1-1 hidden-xs wow slideInUp" data-wow-duration="2s" data-wow-delay=".2s">
+                                <h2 class="title1"></h2>
+                            </div>
+                            <!-- layer 2 -->
+                            <div class="layer-1-2 wow slideInUp" data-wow-duration="2s" data-wow-delay=".1s">
+                                <h1 class="title2"></h1>
+                            </div>
+                            <!-- layer 3 -->
+                            <div class="layer-1-3 hidden-xs wow slideInUp" data-wow-duration="2s" data-wow-delay=".2s">
+                                <a class="ready-btn right-btn page-scroll" href="#services">See Services</a>
+                                <a class="ready-btn right-btn page-scroll" href="#pricing">Hubungi Kami</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- direction 4 -->
+        <div id="slider-direction-4" class="slider-direction slider-two">
             <div class="container">
                 <div class="row">
                     <div class="col-md-12 col-sm-12 col-xs-12">

@@ -72,12 +72,12 @@
                         <div class="footer-head">
                             <h4>Instagram</h4>
                             <div class="flicker-img">
-                                <a href="#"><img src="img/portfolio/1.jpg" alt=""></a>
-                                <a href="#"><img src="img/portfolio/2.jpg" alt=""></a>
-                                <a href="#"><img src="img/portfolio/3.jpg" alt=""></a>
-                                <a href="#"><img src="img/portfolio/4.jpg" alt=""></a>
-                                <a href="#"><img src="img/portfolio/5.jpg" alt=""></a>
-                                <a href="#"><img src="img/portfolio/6.jpg" alt=""></a>
+                                <a href="https://www.instagram.com/grahasolusi.id/"><img src="img/portfolio/1.jpg" alt=""></a>
+                                <a href="https://www.instagram.com/grahasolusi.id/"><img src="img/portfolio/2.jpg" alt=""></a>
+                                <a href="https://www.instagram.com/grahasolusi.id/"><img src="img/portfolio/3.jpg" alt=""></a>
+                                <a href="https://www.instagram.com/grahasolusi.id/"><img src="img/portfolio/4.jpg" alt=""></a>
+                                <a href="https://www.instagram.com/grahasolusi.id/"><img src="img/portfolio/5.jpg" alt=""></a>
+                                <a href="https://www.instagram.com/grahasolusi.id/"><img src="img/portfolio/6.jpg" alt=""></a>
                             </div>
                         </div>
                     </div>
@@ -91,7 +91,7 @@
                 <div class="col-md-12 col-sm-12 col-xs-12">
                     <div class="copyright text-center">
                         <p>
-                            &copy; Copyright <strong>My Home Spaceconomic</strong>. All Rights Reserved
+                            &copy; Copyright <strong>Graha Solusi Indonusa</strong>. All Rights Reserved
                         </p>
                     </div>
                 </div>

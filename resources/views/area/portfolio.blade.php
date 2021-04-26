@@ -21,7 +21,7 @@
                                 <a href="#" data-filter=".development">Office Renovation</a>
                             </li>
                             <li>
-                                <a href="#" data-filter=".design">Interior Set Package</a>
+                                <a href="#" data-filter=".design">Interior</a>
                             </li>
                         </ul>
                     </div>
@@ -36,8 +36,8 @@
                             <div class="add-actions text-center">
                                 <div class="project-dec">
                                     <a class="venobox" data-gall="myGallery" href="{{ asset('img/portfolio/1.jpg') }}">
-                                        <h4>PURI ORCHARD</h4>
-                                        <span>Web Development</span>
+                                        <h4> </h4>
+                                        <span>Interior Design</span>
                                     </a>
                                 </div>
                             </div>
@@ -53,8 +53,8 @@
                             <div class="add-actions text-center">
                                 <div class="project-dec">
                                     <a class="venobox" data-gall="myGallery" href="{{ asset('img/portfolio/2.jpg') }}">
-                                        <h4>Apartment Ciputat</h4>
-                                        <span>Photosho</span>
+                                        <h4> </h4>
+                                        <span>Interior Design</span>
                                     </a>
                                 </div>
                             </div>
@@ -70,8 +70,8 @@
                             <div class="add-actions text-center">
                                 <div class="project-dec">
                                     <a class="venobox" data-gall="myGallery" href="{{ asset('img/portfolio/3.jpg') }}">
-                                        <h4>Beautiful Nature</h4>
-                                        <span>Web Design</span>
+                                        <h4> </h4>
+                                        <span>Interior Design</span>
                                     </a>
                                 </div>
                             </div>
@@ -87,8 +87,8 @@
                             <div class="add-actions text-center">
                                 <div class="project-dec">
                                     <a class="venobox" data-gall="myGallery" href="{{ asset('img/portfolio/4.jpg') }}">
-                                        <h4>Creative Team</h4>
-                                        <span>Web design</span>
+                                        <h4> </h4>
+                                        <span>Interior Design</span>
                                     </a>
                                 </div>
                             </div>
@@ -104,8 +104,8 @@
                             <div class="add-actions text-center text-center">
                                 <div class="project-dec">
                                     <a class="venobox" data-gall="myGallery" href="{{ asset('img/portfolio/5.jpg') }}">
-                                        <h4>Beautiful Flower</h4>
-                                        <span>Web Development</span>
+                                        <h4> </h4>
+                                        <span>Kitchen Set</span>
                                     </a>
                                 </div>
                             </div>
@@ -121,8 +121,8 @@
                             <div class="add-actions text-center">
                                 <div class="project-dec">
                                     <a class="venobox" data-gall="myGallery" href="{{ asset('img/portfolio/6.jpg') }}">
-                                        <h4>Night Hill</h4>
-                                        <span>Photoshop</span>
+                                        <h4> </h4>
+                                        <span>Kitchen Set</span>
                                     </a>
                                 </div>
                             </div>
